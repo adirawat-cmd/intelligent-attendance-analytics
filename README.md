@@ -56,3 +56,8 @@ To provide a simple yet intelligent platform that transforms attendance data int
 - AI-based attendance prediction
 - Biometric or facial recognition
 - Mobile application support
+
+  ## Branching Strategy
+
+This project follows GitHub Flow. The `main` branch contains stable code, while new features and changes are developed in separate feature branches and merged back into `main` after review.
+
