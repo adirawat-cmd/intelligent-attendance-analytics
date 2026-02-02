@@ -1,1 +1,33 @@
-# intelligent-attendance-analytics
+# Intelligent Attendance & Engagement Analytics System
+
+## Project Overview
+The Intelligent Attendance & Engagement Analytics System is a web-based application designed to help educational institutions record, analyze, and visualize student attendance and engagement data.
+
+## Problem It Solves
+Traditional attendance systems only record presence or absence and do not provide meaningful insights. Faculty members lack tools to analyze attendance trends and identify students who may be disengaged or at risk academically.
+
+## Target Users (Personas)
+- Faculty Members – record attendance and view analytics
+- Students – view personal attendance summaries
+- Administrators – manage users, courses, and system configuration
+
+## Vision Statement
+To provide a simple yet intelligent platform that transforms attendance data into actionable academic insights.
+
+## Key Features / Goals
+- Attendance recording for courses
+- Attendance and engagement analytics dashboard
+- Student-wise attendance summaries
+- Report generation
+- Role-based access for faculty, students, and administrators
+
+## Success Metrics
+- Accurate attendance records
+- Clear visualization of attendance trends
+- Identification of low-attendance patterns
+- Positive feedback from faculty users
+
+## Assumptions & Constraints
+- Internet access is available to users
+- The system is developed within a limited academic timeline
+- Open-source tools and free-tier services are used
