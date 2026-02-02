@@ -61,3 +61,18 @@ To provide a simple yet intelligent platform that transforms attendance data int
 
 This project follows GitHub Flow. The `main` branch contains stable code, while new features and changes are developed in separate feature branches and merged back into `main` after review.
 
+
+## Quick Start – Local Development
+
+### Prerequisites
+- Docker Desktop installed
+
+### Steps
+1. Navigate to backend directory
+2. Build the Docker image:
+   docker build -t attendance-backend .
+3. Run the container:
+   docker run -p 5000:5000 attendance-backend
+4. Open browser and visit:
+   http://localhost:5000
+
