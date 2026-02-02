@@ -31,3 +31,28 @@ To provide a simple yet intelligent platform that transforms attendance data int
 - Internet access is available to users
 - The system is developed within a limited academic timeline
 - Open-source tools and free-tier services are used
+
+
+## MoSCoW Prioritization
+
+### Must Have
+- User authentication and role-based access
+- Faculty attendance recording
+- Student attendance viewing
+- Attendance data storage
+- Basic analytics dashboard
+
+### Should Have
+- Course-wise attendance analytics
+- Attendance report generation
+- Admin management of users and courses
+
+### Could Have
+- Attendance alerts and notifications
+- Export attendance data to CSV
+- Visual charts for trends
+
+### Won’t Have (For Now)
+- AI-based attendance prediction
+- Biometric or facial recognition
+- Mobile application support
