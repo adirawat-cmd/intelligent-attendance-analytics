@@ -61,6 +61,11 @@ To provide a simple yet intelligent platform that transforms attendance data int
 
 This project follows GitHub Flow. The `main` branch contains stable code, while new features and changes are developed in separate feature branches and merged back into `main` after review.
 
+## Local Development Tools
+- Git and GitHub
+- Docker Desktop
+- Vs Code
+- Python
 
 ## Quick Start – Local Development
 
