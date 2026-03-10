@@ -81,3 +81,16 @@ This project follows GitHub Flow. The `main` branch contains stable code, while 
 4. Open browser and visit:
    http://localhost:5000
 
+   ## Software Design
+
+This project follows a layered client-server architecture.  
+The frontend handles the user interface, while the backend manages business logic and database interactions.
+
+Architecture Diagram:
+
+<img width="624" height="274" alt="architecture-diagram" src="https://github.com/user-attachments/assets/79c7ebbb-20ef-4e67-9af6-bf176cda62d2" />
+
+Figma Prototype:
+<img width="1286" height="228" alt="figma-screenshots" src="https://github.com/user-attachments/assets/2e8a69c3-db57-49fb-af94-53b9347a2c69" />
+
+
